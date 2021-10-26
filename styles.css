@@ -3,10 +3,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .search {
     position: relative;
-    top: 50vh;
+    top: 45vh;
 }
 #wide {
     position: relative;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    width: 50vw;
 }

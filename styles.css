@@ -1,7 +1,7 @@
 h1, h2, h3, h4, h5, h6 {
     color: rgb(200, 200, 214);
 }
-.search {
+.center {
     position: relative;
     display: flex;
     top: 45vh;
@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 #wide {
     position: relative;
     width: 50vw;
-    height: 10px;
+    height: 20px;
     right: 5vw;
     display:inline-block;
 }

@@ -1,4 +1,4 @@
-$search = $_POST['searchbar'];
+$search = "dogs";//$_POST['searchbar'];
 $prereq = "https://www.google.com/search?q=";
 $final = $prereq;
 for($i = (-1 * strlen($search)); i < 0; i++) {

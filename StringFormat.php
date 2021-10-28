@@ -9,4 +9,4 @@ for($i = (-1 * strlen($search)); i < 0; i++) {
         $final .= substr($search, i, 1);
     }
 }
-header('Location:' + $final);
+header("Location:" + $final);
